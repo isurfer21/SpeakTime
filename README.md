@@ -32,12 +32,18 @@ Please follow these steps to make your Windows operating system speak out time e
 	5. Click on *Apply* button followed by *OK* button
 4. Schedule it to run every hour.
 	1. Open the *Task Scheduler*, you can press `WIN + R`, type in `taskschd.msc`, and hit *Enter* to start.
-	![Win+R Taskschd to start Task Scheduler](http://www.nextofwindows.com/wp-content/uploads/2013/04/Win+R-Taskschd-to-start-Task-Scheduler.png)
+	
+		![Win+R Taskschd to start Task Scheduler](http://www.nextofwindows.com/wp-content/uploads/2013/04/Win+R-Taskschd-to-start-Task-Scheduler.png)
+
 	2. In *Task Scheduler*, click *Create Task* under *Action*.
 	3. Give a name under *General* tab, such as `SpeakTime`.
 	4. Add a trigger to run the task repeatedly very hour. Like below:
-	![Task Scheduler Trigger repeat hourly](http://www.nextofwindows.com/wp-content/uploads/2013/04/Task-Scheduler-Trigger-repeat-hourly.png)
-	5. Add an action under Actions tab, like below:
-	![Task Manager Add an action](http://www.nextofwindows.com/wp-content/uploads/2013/04/Task-Manager-Add-an-action.png)
+	
+		![Task Scheduler Trigger repeat hourly](http://www.nextofwindows.com/wp-content/uploads/2013/04/Task-Scheduler-Trigger-repeat-hourly.png)
+
+	5. Add an action under Actions tab, like below: 
+		
+		![Task Manager Add an action](http://www.nextofwindows.com/wp-content/uploads/2013/04/Task-Manager-Add-an-action.png)
+
 	6. That’s it. Click Ok to close out it.
 
