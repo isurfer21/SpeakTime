@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+url: http://isurfer21.github.io/SpeakTime/
+name: SpeakTime
+description: Make Windows speak out the time every hour
+author: Abhishek Kumar
+author_email: akbittu@gmail.com
